@@ -10,6 +10,8 @@
     
     #juncture h2 { font-size: 28px; }
     
+    #juncture h3 { font-size: 24px; }
+    
     #juncture h4 { text-align: center; }
     
     ul li { padding: 3px 0px; }

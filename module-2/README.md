@@ -12,8 +12,6 @@
     
     #juncture h3 { font-size: 24px; }
     
-    #juncture h4 { text-align: center; }
-    
     ul li { padding: 3px 0px; }
     
     #contents.section1 { font-size:40px; text-align: center; }
